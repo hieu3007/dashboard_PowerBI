@@ -17,9 +17,7 @@ An interactive dashboard analyzing Netflix's movies and TV shows to understand c
 **Tools & Skills:** Power BI, Power Query (data cleaning), DAX (measures & calculations).
 
 **Preview:**  
-![Netflix Dashboard Screenshot](netflix_dashboard.png)
-
-**Dataset:** [Netflix Movies and TV Shows Dataset – Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
+![Netflix Dashboard Screenshot](1.1 Netflix dataset.png)
 
 ---
 
@@ -32,18 +30,15 @@ A dashboard providing sales and profit insights across regions, products, and ti
 - Regional sales performance.
 - Time-series trends for sales and profits.
 - Top performing products.
-
+- 
 **Tools & Skills:** Power BI, Power Query, DAX, data visualization best practices.
-
-**Preview:**  
-![Sales Dashboard Screenshot](sales_dashboard.png)
-
+  
+**Preview:**
+  
+![Sales Dashboard Screenshot](2.1 Sales & Profits Analysis.png)
 ---
-
 ## 📥 Download Dashboards
-- [Netflix Dashboard (.pbix)](Netflix_Dashboard.pbix)
-- [Sales and Profits Dashboard (.pbix)](Sales_Profits.pbix)
-
+- [Netflix Dashboard (.pbix)](1. Netflix Dataset Visualization.pbix)
+- [Sales and Profits Dashboard (.pbix)](2. Sales & Profits Analysis.pbix)
 ---
-
 💡 *These projects showcase skills in data cleaning, transformation, visualization, and storytelling with Power BI.*
