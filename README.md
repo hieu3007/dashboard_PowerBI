@@ -17,7 +17,7 @@ An interactive dashboard analyzing Netflix's movies and TV shows to understand c
 **Tools & Skills:** Power BI, Power Query (data cleaning), DAX (measures & calculations).
 
 **Preview:**  
-![Netflix Dashboard Screenshot]([1.1 Netflix dataset.png](https://github.com/hieu3007/dashboard_PowerBI/blob/main/1.1%20Netflix%20dataset.png)
+![Netflix Dashboard Screenshot]([1.1 Netflix dataset.png](https://github.com/hieu3007/dashboard_PowerBI/blob/main/1.1%20Netflix%20dataset.png))
 
 ---
 
@@ -35,12 +35,12 @@ A dashboard providing sales and profit insights across regions, products, and ti
   
 **Preview:**
   
-![Sales Dashboard Screenshot]([2.1 Sales & Profits Analysis.png](https://github.com/hieu3007/dashboard_PowerBI/blob/main/2.1%20Sales%20%26%20Profits%20Analysis.png)
+![Sales Dashboard Screenshot]([2.1 Sales & Profits Analysis.png](https://github.com/hieu3007/dashboard_PowerBI/blob/main/2.1%20Sales%20%26%20Profits%20Analysis.png))
 
 ---
 
 ## 📥 Download Dashboards
-- [Netflix Dashboard (.pbix)]([1. Netflix Dataset Visualization.pbix](https://github.com/hieu3007/dashboard_PowerBI/blob/main/1.%20Netflix%20Dataset%20Visualization.pbix)
-- [Sales and Profits Dashboard (.pbix)]([2. Sales & Profits Analysis.pbix](https://github.com/hieu3007/dashboard_PowerBI/blob/main/2.%20Sales%20%26%20Profits%20Analysis.pbix)
+- [Netflix Dashboard (.pbix)]([1. Netflix Dataset Visualization.pbix](https://github.com/hieu3007/dashboard_PowerBI/blob/main/1.%20Netflix%20Dataset%20Visualization.pbix))
+- [Sales and Profits Dashboard (.pbix)]([2. Sales & Profits Analysis.pbix](https://github.com/hieu3007/dashboard_PowerBI/blob/main/2.%20Sales%20%26%20Profits%20Analysis.pbix))
 ---
 💡 *These projects showcase skills in data cleaning, transformation, visualization, and storytelling with Power BI.*
